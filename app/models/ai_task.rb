@@ -1,0 +1,2 @@
+class AiTask < ApplicationRecord
+end
