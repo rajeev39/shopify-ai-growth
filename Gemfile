@@ -27,7 +27,7 @@ gem "tzinfo-data", platforms: %i[ windows jruby ]
 gem "solid_cache"
 gem "solid_queue"
 gem "solid_cable"
-gem 'shopify_app', '~> 22.0'
+gem 'shopify_app', '~> 23.0'
 # Reduces boot times through caching; required in config/boot.rb
 gem "bootsnap", require: false
 
